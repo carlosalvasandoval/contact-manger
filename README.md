@@ -2,6 +2,7 @@
 -  [Server requirements with laravel 7.x](https://laravel.com/docs/7.x#server-requirements).
 - This application was build using PHP 7.4
 - You need to have Redis installed because It uses cache tags approach.
+- [Project github](https://github.com/carlosalvasandoval/contact-manger)
 
 ## Project Instructions
 In order to run this project locally :
